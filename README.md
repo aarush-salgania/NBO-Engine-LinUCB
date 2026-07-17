@@ -134,4 +134,3 @@ The simulation makes four simplifying assumptions that do not hold in production
   doubly-robust estimators, which require logging the acting policy's action
   probabilities at decision time. Randomized holdout or interleaving experiments
   become the ground truth in place of oracle regret.
-```
